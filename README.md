@@ -1,2 +1,2 @@
 # cli-calculator
-simple calculation from cli
+simple calculation using cli
